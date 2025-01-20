@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.wellcare.utility.AlphabetConfiguration",
+      "sourceType": "com.wellcare.utility.AlphabetConfiguration"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

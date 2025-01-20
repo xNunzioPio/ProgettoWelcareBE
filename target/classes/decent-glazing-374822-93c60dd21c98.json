@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "decent-glazing-374822",
+  "private_key_id": "93c60dd21c9852c485af05bd67f89e8b1b83471d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5h1NXo4W1Ne4t\n1LUslP2K32OcvTjBYHlZqRvF/0vS9+IPlrPpOvHd38gpD8+hNKeL8KgrJ4wDuXd2\nbTtuy4YRNFM/+kn/bUnHXz3Oc+yHXj6hQKU15RsuG2YHBPA20eJulT8oBtsg+IM4\nv+rf5S/1kvrwgLveERzEro+B82UASUly5Ep+4xvhj3nR4OOCigdcfch6jcgUkRSM\nhRrdm3Y66laljXQPhpbb4mCvoVUN1inq82AGIwR/6/Vg+sGsBBsiiP/HHLfAZMh+\nIMEigAvyFpRvHxzWHq8xRADYIzWQ2RJYUXTqfiWoCwb5PT+erSwfnUzmWb7lITsA\niq5WI4ipAgMBAAECggEAA2RiRXavrefBxlQ+iMVjmlupwFakWELJjTZek+DuU7nl\nB/hvKytA+1fJWtjXaMDj9FbO2FUlhfbo5IEsRkMR3TQp9oA+xJ0MrYjEAkeT0kjK\nl9us+Z6J/+6Pz76LHtF5FKEFcdeoP4LTsWCu7G+OEC0jCe0soiuJbV4ssQlQdjAY\n3CKfAEUTYMtEkeTauFwQC0JU7RleCcqi/mwZtdBYMTB+T/Le5rez5cPaq//fQwvB\n3Kt5OtPGnvXpxlqAjgSQfdQCT9Nm9eI7BPMpoEMLgMWvdPqBGmbKysIzWoE+03hq\n10y2HEVXhfWvyo8qbWPH6KdgjRdp1PWqxUDBsX4I4QKBgQDnXzwG7UI7StSyhC/7\niTZi/Td1XHIRIqE2HlOq3JbUHPLPpx2tYp2l2SSDx4+uKLUH8CGV6EbHjDeW5EUW\nv2id6rOMDuIviNr2sKzs4qUAHEFogOHumX3gqmCdLhu5wECYN7Y/ct6OI2hXgEvS\niLmpNBHk2dUdiPi90pkwOt7n0QKBgQDNRuH47FuSQynLzxG3YJ31KwL8qNx/83LT\nXJnGVbdz6LrMYy875OqE6cxZ0C9K8DwgBOVcBncI7q03EOuGmbAM6tCPy7s+0n82\nH6q4OYQ/80aDwc8i07KNJAaQN/miAttjYZi3vbWI0am8SsBlwa1fQV5j8WSL6nIl\ntX7G2lMhWQKBgHz2TrFfC1qCvAX+pvuvzBQCtyVH3MOsdG2KS54Ird26FNpaZAj1\nLjgY40PZUJy7l6rF4x3X6gJ0lMGGYFo83wALdxW6JCeQPtLl8T+v2XYJzLnogh4g\nAICLBMtfz9GvKDQOQvxZyiHytbQsssbu2Xeti8ySaiwdglrjl6EY6rNBAoGBAIgd\nODmWgCG75zr9UwIFTrgCjTh7v7oX80uzW0PoEn0JFNPx8KAGans3jAkBwlouca/J\nj0w1/TgvCyw4S/Q0dEgca67tqHs/mJqK5OjDOq4s4dT77h1pwjtUaAW5GA4VVuPP\nEzTC1lyiqanw5yKSCiPfdHdQ2RrtmkLm1emFWxoBAoGBAMEzZ9GTJsG4hgmy7yQm\nFTadZUSpfRK/5ezKPQ18tfePXJMPPE4F1iB5m8n3GLSXnHcGrEaNQdYq2p3JKHwa\nMxfTLu0C2ZuGbyuPl3MMsY5g2lr62/RZaRr+3Vl/E9o6BQe6U+Bt6N0oLu9W/Gvi\nmyPRSTqlo0rRPljxahq5RfDk\n-----END PRIVATE KEY-----\n",
+  "client_email": "wellcare@decent-glazing-374822.iam.gserviceaccount.com",
+  "client_id": "108431023019777284266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wellcare%40decent-glazing-374822.iam.gserviceaccount.com"
+}
